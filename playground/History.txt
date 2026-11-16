@@ -1,0 +1,4 @@
+November 16, 2026
+
+Started reading through the Godot documentations and getting familiar with the interfaces, features and GDScript language.
+Learned about the main interfaces in the main project workspace. And the GDScript in gdquest.github.io.
