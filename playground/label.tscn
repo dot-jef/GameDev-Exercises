@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://db86opqwtj7ye"]
+
+[node name="Label" type="Label" unique_id=1885305320]
+offset_left = 368.0
+offset_top = 231.0
+offset_right = 685.0
+offset_bottom = 358.0
+text = "HAHAHAHAHAHAHAHAHAHAHAHAHAHA
+hahahah
+HAHA
+hAah
+HhaAHAHA"
