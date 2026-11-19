@@ -7,3 +7,12 @@ Learned about the main interfaces in the main project workspace. And the GDScrip
 November 17, 2026
 
 Following the step by step in the godot documentation.
+
+November 18, 2026
+
+I did nothing.
+
+November 19, 2026
+
+I learned that my laptop is too low end that I cant follow the godot tutorial...
+Stopping the gamedev learning for now, until I got a better device.
